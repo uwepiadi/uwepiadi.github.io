@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwepiadi.github.io/ATi/sitemap_index.txt
+Sitemap: https://uwepiadi.github.io/bdW/sitemap_index.txt
+Sitemap: https://uwepiadi.github.io/jwb/sitemap_index.txt
+Sitemap: https://uwepiadi.github.io/vkV/sitemap_index.txt
